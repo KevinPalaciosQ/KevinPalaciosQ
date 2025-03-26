@@ -6,7 +6,7 @@
 
 <hr>
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Python & Javascript**.  
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently exploring **emerging technologies** like **AI, Blockchain, and Cloud Computing** to build innovative solutions.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy immersing myself in virtual worlds when I'm not coding.
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;The average person falls asleep in just **7 minutes**… unless they're experimenting with the latest tech at 3 AM!  
 
