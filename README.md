@@ -34,6 +34,19 @@
   <img src="https://img.shields.io/badge/Methodology-Scrum-informational?style=flat&logo=scrumalliance&color=6DB33F" />
   <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" />
 </p>
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinPalaciosQ&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPalaciosQ&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <hr>
 
