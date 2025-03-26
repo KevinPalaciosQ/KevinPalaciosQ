@@ -1,6 +1,7 @@
 <div align="center" width="50">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Developer Coding" />
-  
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="60%" alt="Cyberpunk Coding" />
+
 <p><strong>9th Semester Student of Computer Science and Systems Engineering</strong></p>
 <p>Passionate about software development, focusing on backend and frontend technologies.</p>
 
