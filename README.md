@@ -1,6 +1,5 @@
 <div align="center" width="50">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Developer Coding" />
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="60%" alt="Cyberpunk Coding" />
 
 <p><strong>9th Semester Student of Computer Science and Systems Engineering</strong></p>
 <p>Passionate about software development, focusing on backend and frontend technologies.</p>
@@ -8,8 +7,8 @@
 <hr>
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Python & Javascript**.  
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like to play videogames.  
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Most people fall asleep in seven minutes.  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy immersing myself in virtual worlds when I'm not coding.
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;The average person falls asleep in just **7 minutes**… unless they're experimenting with the latest tech at 3 AM!  
 
 ---
 
