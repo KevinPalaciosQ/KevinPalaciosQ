@@ -14,12 +14,25 @@
 ### 🚀 Technologies & Tools  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=yellow" />
+  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26" />
+  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6" />
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=green" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue" />
+  <img src="https://img.shields.io/badge/Code-Vite-informational?style=flat&logo=vite&color=646CFF" />
+  <img src="https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwind-css&color=38B2AC" />
+  <br>
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396" />
+  <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" />
+  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=000000" />
+  <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=F7DF1E" />
+  <br>
+  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248" />
+  <img src="https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&color=F05032" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=FF9900" />
   <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=orange" />
+  <img src="https://img.shields.io/badge/Methodology-Scrum-informational?style=flat&logo=scrumalliance&color=6DB33F" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" />
 </p>
 
 <hr>
@@ -27,3 +40,4 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 </div>
+
