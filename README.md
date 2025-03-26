@@ -53,14 +53,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
-<img src="https://media.giphy.com/media/3o7btPqCzF1xFz02Go/giphy.gif" width="75%" />
-<br>
-<img src="https://media.giphy.com/media/ysf0fctHhwAbebpOZY/giphy.gif" width="75%" />
-<br>
-<img src="https://media.giphy.com/media/f9EgcqgFMXyNtxftZ6/giphy.gif" width="75%" />
-<br>
-<img src="https://media.giphy.com/media/kfW0IuxAPD6K7kpYYw/giphy.gif" width="75%" />
-
+<img src="https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_p9rsa0WDMn1xvopeao1_540.gifv" width="75%" />
 
 </div>
 
