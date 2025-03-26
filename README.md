@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60%" alt="Matrix Code" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Developer Coding" />
   
 <p><strong>9th Semester Student of Computer Science and Systems Engineering</strong></p>
 <p>Passionate about software development, focusing on backend and frontend technologies.</p>
