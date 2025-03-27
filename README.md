@@ -53,6 +53,8 @@
 
 
 <img src="https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_p9rsa0WDMn1xvopeao1_540.gifv" width="75%" />
-
+    <!-- Portfolio Link -->
+    <p><strong>Check out my portfolio at:</strong></p>
+    <p><a href="https://kevinpalaciosq.github.io/" target="_blank" class="text-neon">Kevin Palacios Portfolio</a></p>
 </div>
 
